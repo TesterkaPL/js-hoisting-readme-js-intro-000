@@ -14,7 +14,7 @@ function crazy() {
     console.log("hey!!!")
   }
 return thisIsCrazy;
-}  
+}
 var wartosc = crazy();
 wartosc();
 
@@ -30,4 +30,4 @@ function sayMyName() {
    console.log(name);
  }
 }
-var funkcja = sayMyName(); 
+var funkcja = sayMyName();
